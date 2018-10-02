@@ -6,16 +6,32 @@
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: CodeStyle
+   :caption: Git
 
-   codestyle/naming.rst
-   codestyle/modules.rst
-   codestyle/exceptions.rst
+   commits.rst
+   branches.rst
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Git
+   :caption: .Net CodeStyle
 
-   git.rst
-   commits.rst
+   dotNetCodeStyle/naming.rst
+   dotNetCodeStyle/solid.rst
+   dotNetCodeStyle/modules.rst
+   dotNetCodeStyle/exceptions.rst
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Android CodeStyle
+
+   androidCodeStyle/index.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Web API
+
+   webApi/index.rst
