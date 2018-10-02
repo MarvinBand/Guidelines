@@ -14,6 +14,16 @@
 .. toctree::
    :maxdepth: 2
    :hidden:
+   :caption: Development
+
+   development/changelog.rst
+   development/versioning.rst
+   development/testing.rst
+   development/ci.rst
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
    :caption: .Net CodeStyle
 
    dotNetCodeStyle/naming.rst
