@@ -8,8 +8,8 @@
    :hidden:
    :caption: Git
 
-   commits.rst
-   branches.rst
+   git/commits.rst
+   git/branches.rst
 
 .. toctree::
    :maxdepth: 2
