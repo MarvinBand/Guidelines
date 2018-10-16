@@ -20,6 +20,7 @@
    development/versioning.rst
    development/testing.rst
    development/ci.rst
+   development/configurations.rst
 
 .. toctree::
    :maxdepth: 2
