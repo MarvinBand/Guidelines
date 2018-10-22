@@ -1,0 +1,16 @@
+site_name: Marvin Guidelines
+nav:
+   - Home: index.md
+   - Development: development/index.md
+   - Git: git/index.md
+   - .Net code style: dotNetCodeStyle/index.md
+   - Android code style: androidCodeStyle/index.md
+   - Web API: webApi/index.md
+
+theme:
+    name: bootstrap386
+
+
+repo_url: https://github.com/MarvinBand/Guidelines
+
+
