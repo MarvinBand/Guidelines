@@ -1,12 +1,12 @@
 site_name: Marvin Guidelines
 
 nav:
-    - `Home`: docs/index.md
-    - `Development`: docs/development/index.md
-    - `Git`: docs/git/index.md
-    - `.Net code style`: docs/dotNetCodeStyle/index.md
-    - `Android code style`: docs/androidCodeStyle/index.md
-    - `Web API`: docs/webApi/index.md
+    - Home: docs/index.md
+    - Development: docs/development/index.md
+    - Git`: docs/git/index.md
+    - .Net code style: docs/dotNetCodeStyle/index.md
+    - Android code style: docs/androidCodeStyle/index.md
+    - Web API: docs/webApi/index.md
 
 theme: readthedocs
 
