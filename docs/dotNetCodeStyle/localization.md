@@ -156,7 +156,7 @@ public class SharedResources
 
 ## Пример
 
-Пример локализованного ASP.Net приложения доступен в [примерах](../../samples/) этого репозитория
+Пример локализованного ASP.Net приложения доступен в [примерах](https://github.com/MarvinBand/Guidelines/tree/develop/samples) этого репозитория
 
 ## Полезные ссылки
 
