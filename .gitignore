@@ -76,3 +76,27 @@ fabric.properties
 
 
 # End of https://www.gitignore.io/api/rider
+
+samples/\.idea/\.idea\.AddingLocalization/\.idea/\.name
+
+samples/\.idea/\.idea\.AddingLocalization/\.idea/indexLayout\.xml
+
+samples/\.idea/\.idea\.AddingLocalization/\.idea/modules\.xml
+
+samples/\.idea/\.idea\.AddingLocalization/\.idea/vcs\.xml
+
+samples/\.idea/\.idea\.AddingLocalization/riderModule\.iml
+
+samples/\.idea/\.idea\.DevExperiments\.LocalizedSite/\.idea/\.name
+
+samples/\.idea/\.idea\.DevExperiments\.LocalizedSite/\.idea/indexLayout\.xml
+
+samples/\.idea/\.idea\.DevExperiments\.LocalizedSite/\.idea/modules\.xml
+
+samples/\.idea/\.idea\.DevExperiments\.LocalizedSite/\.idea/vcs\.xml
+
+samples/\.idea/\.idea\.DevExperiments\.LocalizedSite/riderModule\.iml
+
+samples/src/AddingLocalization/bin/Debug/netcoreapp1\.0/
+
+samples/src/AddingLocalization/obj/
