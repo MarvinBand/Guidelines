@@ -1,9 +1,4 @@
 
-docs/\.vscode/
-
-\.vscode/
-
-
 # Created by https://www.gitignore.io/api/rider
 
 ### Rider ###
@@ -77,26 +72,22 @@ fabric.properties
 
 # End of https://www.gitignore.io/api/rider
 
-samples/\.idea/\.idea\.AddingLocalization/\.idea/\.name
+src/LocalizedSite/bin/Debug/netcoreapp2\.1/
 
-samples/\.idea/\.idea\.AddingLocalization/\.idea/indexLayout\.xml
+src/LocalisedLib/bin/Debug/netstandard2\.0/
 
-samples/\.idea/\.idea\.AddingLocalization/\.idea/modules\.xml
+src/LocalisedLib/obj/Debug/netstandard2\.0/en/
 
-samples/\.idea/\.idea\.AddingLocalization/\.idea/vcs\.xml
+src/LocalisedLib/obj/Debug/netstandard2\.0/
 
-samples/\.idea/\.idea\.AddingLocalization/riderModule\.iml
+src/LocalisedLib/obj/
 
-samples/\.idea/\.idea\.DevExperiments\.LocalizedSite/\.idea/\.name
+src/LocalizedSite/obj/Debug/netcoreapp2\.1/en/
 
-samples/\.idea/\.idea\.DevExperiments\.LocalizedSite/\.idea/indexLayout\.xml
+src/LocalizedSite/obj/Debug/netcoreapp2\.1/fr-FR/
 
-samples/\.idea/\.idea\.DevExperiments\.LocalizedSite/\.idea/modules\.xml
+src/LocalizedSite/obj/Debug/netcoreapp2\.1/fr/
 
-samples/\.idea/\.idea\.DevExperiments\.LocalizedSite/\.idea/vcs\.xml
+src/LocalizedSite/obj/Debug/netcoreapp2\.1/
 
-samples/\.idea/\.idea\.DevExperiments\.LocalizedSite/riderModule\.iml
-
-samples/src/AddingLocalization/bin/Debug/netcoreapp1\.0/
-
-samples/src/AddingLocalization/obj/
+src/LocalizedSite/obj/
