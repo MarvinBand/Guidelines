@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings":
+  {
+    "pgStr": "Server=dev2.siisltd.ru;Port=5432;Database=test;User Id=postgres;Password=test"
+  }
+}

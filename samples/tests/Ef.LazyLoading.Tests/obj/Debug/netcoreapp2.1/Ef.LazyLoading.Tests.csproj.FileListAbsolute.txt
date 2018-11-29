@@ -1,0 +1,15 @@
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/bin/Debug/netcoreapp2.1/Ef.LazyLoading.Tests.deps.json
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/bin/Debug/netcoreapp2.1/Ef.LazyLoading.Tests.runtimeconfig.json
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/bin/Debug/netcoreapp2.1/Ef.LazyLoading.Tests.runtimeconfig.dev.json
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/bin/Debug/netcoreapp2.1/Ef.LazyLoading.Tests.dll
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/bin/Debug/netcoreapp2.1/Ef.LazyLoading.Tests.pdb
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/obj/Debug/netcoreapp2.1/Ef.LazyLoading.Tests.csprojAssemblyReference.cache
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/obj/Debug/netcoreapp2.1/Ef.LazyLoading.Tests.csproj.CoreCompileInputs.cache
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/obj/Debug/netcoreapp2.1/Ef.LazyLoading.Tests.AssemblyInfoInputs.cache
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/obj/Debug/netcoreapp2.1/Ef.LazyLoading.Tests.AssemblyInfo.cs
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/obj/Debug/netcoreapp2.1/Ef.LazyLoading.Tests.dll
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/obj/Debug/netcoreapp2.1/Ef.LazyLoading.Tests.pdb
+/home/kirill/Projects/Guidelines/samples/tests/Ef.LazyLoading.Tests/bin/Debug/netcoreapp2.1/testsettings.json
