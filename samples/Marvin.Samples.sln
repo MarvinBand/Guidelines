@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizedSite", "src\Locali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalisedLib", "src\LocalisedLib\LocalisedLib.csproj", "{3AC1F5C8-B73E-4B6A-A2D9-4CA9C3F144AF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{43C8A136-56B7-42A3-9D79-E638FFEE7612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ef.LazyLoading.Tests", "tests\Ef.LazyLoading.Tests\Ef.LazyLoading.Tests.csproj", "{7BB6429F-E39E-4EA3-8AF9-0BA2CBB41BF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{3AC1F5C8-B73E-4B6A-A2D9-4CA9C3F144AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AC1F5C8-B73E-4B6A-A2D9-4CA9C3F144AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AC1F5C8-B73E-4B6A-A2D9-4CA9C3F144AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB6429F-E39E-4EA3-8AF9-0BA2CBB41BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB6429F-E39E-4EA3-8AF9-0BA2CBB41BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB6429F-E39E-4EA3-8AF9-0BA2CBB41BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB6429F-E39E-4EA3-8AF9-0BA2CBB41BF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +40,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{03A891F4-A1EC-423B-8EB6-53D1CF827A52} = {4098A19F-3ACF-48A0-8C76-183B752CA03A}
 		{3AC1F5C8-B73E-4B6A-A2D9-4CA9C3F144AF} = {4098A19F-3ACF-48A0-8C76-183B752CA03A}
+		{7BB6429F-E39E-4EA3-8AF9-0BA2CBB41BF2} = {43C8A136-56B7-42A3-9D79-E638FFEE7612}
 	EndGlobalSection
 EndGlobal
